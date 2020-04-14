@@ -1,2 +1,2 @@
-# KS-ThinkingInProgramming
-编程思想
+# 编程思想
+
